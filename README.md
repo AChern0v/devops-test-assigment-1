@@ -28,7 +28,7 @@ file4.txt
 ```
 
 ## Bash solution demo
-[![asciicast](https://asciinema.org/a/0zACQi3td85clRDXCR1V60KF7.svg)](https://asciinema.org/a/0zACQi3td85clRDXCR1V60KF7)
+[![asciicast](https://asciinema.org/a/l7usJpR1kjCbhGr2WBW6mDx3s.svg)](https://asciinema.org/a/l7usJpR1kjCbhGr2WBW6mDx3s)
 
 ## Python solution demo
 
